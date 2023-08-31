@@ -1,0 +1,7 @@
+table > tbody > tr > td {
+  background-color: inherit !important;
+}
+
+.stripes {
+  background-color: lightgrey;
+}
